@@ -1,7 +1,7 @@
-<?php 
+<!-- <?php 
     $URI_HOME = $_SERVER['REQUEST_URI'];
 
-?>
+?> -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,28 +13,7 @@
     <link rel="stylesheet" href="./assets/bootstrap-utilities.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./assets/style.css">
-    <style>
-      .form__group .form__input input[type="email"] {
-                        padding: var(--padding-input);
-                        outline: none;
-                        border: 2px solid rgba(255, 55, 40, 0.6);
-                        width: 100%;
-                        color: var(--primary-color);
-                        font-size: var(--text-input);
-                    }
-      .form__group .form__input input::placeholder {
-                        color: var(--primary-color);
-                        opacity: 0.8;
-                    }
-      .form__group .form__input input[type="email"]:hover,
-      .form__group .form__input input[type="email"]:focus {
-          border: 2px solid var(--primary-color);
-      }
-      .form__group .form__input input[type="email"]:first-child {
-          margin-right: 10px;
-      }
 
-    </style>
 </head>
 <body>
  <div id="app">
@@ -135,7 +114,6 @@
 
     <!-- Slider 2 Start -->
     <div class="slider-2">
-      <div class="slider-2__border">
         <div class="slider-2__content">
           <p>朝の勉強習慣を築き</p>
           <p>中学受験を乗り切る</p>
@@ -148,7 +126,6 @@
           <img src="./assets/image/sunny-4.png" class="image-3" alt="">
           <img src="./assets/image/6.png" alt="" class="image-4">
         </div>
-      </div>
     </div>
     <!-- Slider 2 End -->
 
@@ -408,40 +385,33 @@
       </div>
 
       <div class="voice__table">
-        <div class="row">
-          <div class="col-12 col-sm-6">
-            <div class="voice__table-col">
-              <div class="voice__table-col__image">
-                <img src="./assets/image/voice-1.png" alt="">
-              </div>
-              <h4 class="voice__table-col__title">算数強化で <br/>
-                他教科も偏差値アップ</h4>
+          <div class="voice__table-col">
+            <div class="voice__table-col__image">
+              <img src="./assets/image/voice-1.png" alt="">
+            </div>
+            <h4 class="voice__table-col__title">算数強化で <br/>
+              他教科も偏差値アップ</h4>
 
-              <div class="voice__table-col__desc">
-                <p>朝ジュクを始める前は、算数が苦手でした。それが原因で勉強自体を疎かにしていました。ですが実際に始めてみると、今までしていなかった早寝早起きをし、授業を受けるという習慣がつき、また授業の解説もわかりやすいので頭に入りやすく楽しめました。
-
-                  今では算数の偏差値が10以上あがり、勉強の弱点が減ったことで他の教科にも力を入れることができています。</p>
-                  <span>T・Sくん / 小学６年生</span>
-              </div>
+            <div class="voice__table-col__desc">
+              <p>朝ジュクを始める前は、算数が苦手でした。それが原因で勉強自体を疎かにしていました。ですが実際に始めてみると、今までしていなかった早寝早起きをし、授業を受けるという習慣がつき、また授業の解説もわかりやすいので頭に入りやすく楽しめました。
+                今では算数の偏差値が10以上あがり、勉強の弱点が減ったことで他の教科にも力を入れることができています。</p>
+                <span>T・Sくん / 小学６年生</span>
             </div>
           </div>
 
-          <div class="col-12 col-sm-6">
-            <div class="voice__table-col">
-              <div class="voice__table-col__image">
-                <img src="./assets/image/voice-2.png" alt="">
-              </div>
-              <h4 class="voice__table-col__title">朝ジュクで <br/>
-                朝の生活習慣から変わった</h4>
+          <div class="voice__table-col">
+            <div class="voice__table-col__image">
+              <img src="./assets/image/voice-2.png" alt="">
+            </div>
+            <h4 class="voice__table-col__title">朝ジュクで <br/>
+              朝の生活習慣から変わった</h4>
 
-              <div class="voice__table-col__desc">
-                <p>はじめは朝起きるのも大変でした。ですが続けていくうちに朝起きて、顔を洗って、着替えて、朝ジュクを受けるというのが習慣になりました。
-                  また、学校から帰ってきて宿題を終わらせたら、朝ジュクの板書をし再度朝にできなかった問題をリトライする。これを繰り返していくことで、苦手だった算数もできるようになり、小学５年生の頃には、小学６年生の問題も解けるようになりました。</p>
-                  <span>H・Nさん / 小学６年生</span>
-              </div>
+            <div class="voice__table-col__desc">
+              <p>はじめは朝起きるのも大変でした。ですが続けていくうちに朝起きて、顔を洗って、着替えて、朝ジュクを受けるというのが習慣になりました。
+                また、学校から帰ってきて宿題を終わらせたら、朝ジュクの板書をし再度朝にできなかった問題をリトライする。これを繰り返していくことで、苦手だった算数もできるようになり、小学５年生の頃には、小学６年生の問題も解けるようになりました。</p>
+                <span>H・Nさん / 小学６年生</span>
             </div>
           </div>
-        </div>
       </div>
 
     </div>
