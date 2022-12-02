@@ -38,12 +38,7 @@
           </div>
           <div class="navbar__item">
             <a href="#schedule">
-              course
-            </a>
-          </div>
-          <div class="navbar__item">
-            <a href="#price">
-              price
+              Course&Price
             </a>
           </div>
           <div class="navbar__item">
@@ -131,7 +126,7 @@
 
     <!-- Poin Start -->
     <div class="poin" id="point">
-      <h1 class="poin__title">POIN</h1>
+      <h1 class="poin__title">POINT</h1>
       <div class="poin__table">
         <div class="poin__cell">
           <img src="./assets/image/poin-1.png" alt="" class="poin__cell-image">
@@ -181,102 +176,98 @@
       </div>
       <div class="price__table">
         <div class="row">
-          <div class="col-12 col-sm-6 price__table-border">
-            <table class="price__table-form">
-              <thead></thead>
-              <tr>
-                <td colspan="2">小3相当レベル</td>
-              </tr>
-              <tr>
-                <td style="width: 25%;">曜日</td>
-                <td>水・金</td>
-              </tr>
-              <tr>
-                <td >開講</td>
-                <td>5:50 〜</td>
-              </tr>
-              <tr>
-                <td >授業</td>
-                <td>6:00 ~ 7:00</td>
-              </tr>
-              <tr>
-                <td >料金</td>
-                <td>19,000円（税込20,900円）</td>
-              </tr>
-            </table>
+          <div class="col-12 col-md-6 price__table-distance">
+            <div class="price__table-border">
+              <div class="price__table-header">小3相当レベル</div>
+              <table class="price__table-form">
+                <tr>
+                  <td>曜日</td>
+                  <td>水・金</td>
+                </tr>
+                <tr>
+                  <td >開講</td>
+                  <td>5:50 〜</td>
+                </tr>
+                <tr>
+                  <td >授業</td>
+                  <td>6:00 ~ 7:00</td>
+                </tr>
+                <tr>
+                  <td >料金</td>
+                  <td>19,000円（税込20,900円）</td>
+                </tr>
+              </table>
+            </div>
           </div>
       
-          <div class="col-12 col-sm-6 price__table-border">
-            <table class="price__table-form">
-              <thead></thead>
-              <tr>
-                <td colspan="2">小3相当レベル</td>
-              </tr>
-              <tr>
-                <td style="width: 25%;">曜日</td>
-                <td>水・金</td>
-              </tr>
-              <tr>
-                <td >開講</td>
-                <td>5:50 〜</td>
-              </tr>
-              <tr>
-                <td >授業</td>
-                <td>6:00 ~ 7:00</td>
-              </tr>
-              <tr>
-                <td >料金</td>
-                <td>19,000円（税込20,900円）</td>
-              </tr>
-            </table>
+          <div class="col-12 col-md-6 price__table-distance">
+            <div class="price__table-border">
+              <div class="price__table-header">小3相当レベル</div>
+              <table class="price__table-form">
+                <tr>
+                  <td>曜日</td>
+                  <td>水・金</td>
+                </tr>
+                <tr>
+                  <td >開講</td>
+                  <td>5:50 〜</td>
+                </tr>
+                <tr>
+                  <td >授業</td>
+                  <td>6:00 ~ 7:00</td>
+                </tr>
+                <tr>
+                  <td >料金</td>
+                  <td>19,000円（税込20,900円）</td>
+                </tr>
+              </table>
+            </div>
           </div>
-          <div class="col-12 col-sm-6 price__table-border">
-            <table class="price__table-form">
-              <thead></thead>
-              <tr>
-                <td colspan="2">小3相当レベル</td>
-              </tr>
-              <tr>
-                <td style="width: 25%;">曜日</td>
-                <td>水・金</td>
-              </tr>
-              <tr>
-                <td >開講</td>
-                <td>5:50 〜</td>
-              </tr>
-              <tr>
-                <td >授業</td>
-                <td>6:00 ~ 7:00</td>
-              </tr>
-              <tr>
-                <td >料金</td>
-                <td>19,000円（税込20,900円）</td>
-              </tr>
-            </table>
+          <div class="col-12 col-md-6 price__table-distance">
+            <div class="price__table-border">
+              <div class="price__table-header">小3相当レベル</div>
+              <table class="price__table-form">
+                <tr>
+                  <td>曜日</td>
+                  <td>水・金</td>
+                </tr>
+                <tr>
+                  <td >開講</td>
+                  <td>5:50 〜</td>
+                </tr>
+                <tr>
+                  <td >授業</td>
+                  <td>6:00 ~ 7:00</td>
+                </tr>
+                <tr>
+                  <td >料金</td>
+                  <td>19,000円（税込20,900円）</td>
+                </tr>
+              </table>
+            </div>
           </div>
-          <div class="col-12 col-sm-6 price__table-border">
-            <table class="price__table-form">
-              <thead></thead>
-              <tr>
-                <td colspan="2">小3相当レベル</td>
-              </tr>
-              <tr>
-                <td style="width: 25%;">曜日</td>
-                <td>水・金</td>
-              </tr>
-              <tr>
-                <td >開講</td>
-                <td>5:50 〜</td>
-              </tr>
-              <tr>
-                <td >授業</td>
-                <td>6:00 ~ 7:00</td>
-              </tr>
-              <tr>
-                <td >料金</td>
-                <td>19,000円（税込20,900円）</td>
-              </tr>
-            </table>
+          <div class="col-12 col-md-6 price__table-distance">
+            <div class="price__table-border">
+              <div class="price__table-header">小3相当レベル</div>
+              <table class="price__table-form">
+                <tr>
+                  <td>曜日</td>
+                  <td>水・金</td>
+                </tr>
+                <tr>
+                  <td >開講</td>
+                  <td>5:50 〜</td>
+                </tr>
+                <tr>
+                  <td >授業</td>
+                  <td>6:00 ~ 7:00</td>
+                </tr>
+                <tr>
+                  <td >料金</td>
+                  <td>19,000円（税込20,900円）</td>
+                </tr>
+              </table>
+            </div>
           </div>
         </div>
       </div>
@@ -298,7 +289,7 @@
 
     <!-- Massage Start -->
     <div class="massage" id="massage">
-      <h1 class="massage__title">MASSAGE</h1>
+      <h1 class="massage__title">MESSAGE</h1>
       <div class="massage__page">
         <div class="row">
           <div class="col-12 col-sm-6">
@@ -486,7 +477,7 @@
       <div class="contact__form ">
         <form action="<?php echo $URI_HOME;?>mailler/sendmail.php" method="POST" class="contact__form__js">
           <div class="form__group">
-            <label for="">●お問い合わせ内容</label>
+            <label for="">お問い合わせ内容</label>
             <div class="line"></div>
             <div class="form__radio">
               <div class="radio-check">
@@ -511,7 +502,7 @@
           </div>
 
           <div class="form__group">
-            <label for="">●氏名</label>
+            <label for="">氏名</label>
             <div class="form__input">
               <input type="text" placeholder="例）山田太郎">
               <input type="text" placeholder="例）ヤマダタロウ">
@@ -519,7 +510,7 @@
           </div>
 
           <div class="form__group">
-            <label for="">●学年</label>
+            <label for="">学年</label>
             <div class="form__select">
               <input class="show-option" type="text" value="例）山田太郎" disabled>
               <i class="fa-solid fa-sort-down show-option"></i>
@@ -535,35 +526,35 @@
           </div>
 
           <div class="form__group location-mb-1">
-            <label for="">●メールアドレス</label>
+            <label for="">メールアドレス</label>
             <div class="form__input">
               <input type="email" placeholder="nguyenvana@gmail.com" name="email" required>
             </div>
           </div>
 
           <div class="form__group">
-            <label for="">●電話番号</label>
+            <label for="">電話番号</label>
             <div class="form__date">
-              <input type="text">
+              <input type="number">
               <span></span>
-              <input type="text">
+              <input type="number">
               <span></span>
-              <input type="text">
+              <input type="number">
             </div>
           </div>
 
           <div class="form__group">
-            <label for="">●住所</label>
+            <label for="">住所</label>
             <div class="form__input">
               <input type="text" placeholder="例）東京都江戸川区西葛西7-11-4光ビル1F" style="margin: 0;">
             </div>
           </div>
 
           <div class="form__group pc-01">
-            <label for="">●朝ジュクを何で知りましたか？</label>
+            <label for="">朝ジュクを何で知りましたか？</label>
             <div class="line-1"></div>
             <div class="form__radio">
-              <div class="radio-check">
+              <div class="radio-check-2">
                 <label for="radio-8">
                   <input type="radio" name="name2" id="radio-8">
                   <span class="radio__custom"></span>
@@ -604,71 +595,74 @@
             </div>
           </div>
 
-          <div class="form__group pc-01">
-            <label for="" >●お問い合わせ内容</label>
+          <div class="form__group">
+            <label for="" >お問い合わせ内容</label>
             <div class="line-1" ></div>
             <div class="form__radio">
-              <textarea name="" id="" cols="30" rows="10"></textarea>
+              <textarea name="" id="" cols="30" rows="10" ></textarea>
             </div>
           </div>
 
           <div class="form__policy">
-            <h3 class="form__policy-title">●プライバシーポリシー</h3>
-            <div class="form__policy-desc">
-                株式会社alfa-herix（以下、「弊社」）は個人情報の保護に関する方針を以下の通り定め、社内体制を整備し、継続的な改善に取り組み、お客様に信頼され安心していただける企業を目指します。
+            <h3 class="form__policy-title">プライバシーポリシー</h3>
+            <div class="form__policy-border">
+              <div class="form__policy-desc">
+                  株式会社alfa-herix（以下、「弊社」）は個人情報の保護に関する方針を以下の通り定め、社内体制を整備し、継続的な改善に取り組み、お客様に信頼され安心していただける企業を目指します。
+  
+                  個人情報の管理について
+  
+                  弊社では、情報管理責任者を定め、個人情報の漏えい、滅失または毀損の防止その他安全管理のために、個人情報の持ち出し手段の制限、外部からの不正アクセス防止のための措置を講じています。
+  
+                  個人情報の取得について
+  
+                  弊社は、適法かつ公正な手段によって個人情報を取得いたします。弊社は、取得した個人情報を正当な学習塾事業、教材出版事業、システム開発事業、生涯教育事業（以下、「弊社事業」）の遂行上必要な限りにおいて、以下の利用目的の範囲内および相当の関連性を有すると判断できる合理的な範囲内で利用させていただきます。
+  
+                  1.進路指導、生徒管理、表彰活動、アンケート活動などを行うため
+                  2.生徒募集、テキストを含む指導システムの販売の営業活動を行うため
+                  3.お客様の属性で分類された統計資料を作成、分析するため
+                  4.業務管理を行うため
+                  5.当社サービスのご紹介、ご案内のため
+  
+                  個人情報の第三者提供について
+  
+                  個人情報の第三者への提供は、正当な弊社事業遂行に必要な範囲内で、お客様の同意がある場合のみ行います。但し、以下の場合にはこれに応じてご本人の許可なく情報の開示をさせて頂くことがございます。
+  
+                  1.法令等により開示が要求された場合
+                  2.人の生命、身体または財産の保護のために必要がある場合であって、ご本人の同意を得ることが困難であるとき
+                  3.公衆衛生の向上または生徒の健全な育成促進のために特に必要である場合であって、ご本人の同意を得ることが困難であるとき
+                  4.国の機関もしくは地方公共団体またはその委託を受けた者が法令の定める事務を遂行することに対して協力する必要がある場合であって、ご本人の同意を得ることに当該事務の遂行に支障を及ぼすおそれがあるとき
+                  5.決済などのため、金融機関に個人情報を開示する必要があるとき
+                  6.お客様個人を識別できない状態で利用する場合
+  
+                  個人情報の開示について
+  
+                  弊社は、本人が自己の個人情報の開示、訂正、利用停止、消去等を求める権利を有していることを理解し、この要求がある場合には、ご本人であることを確認させていただいた上で、法廷の定めに従って対応させて頂きます。
+  
+                  個人情報保護規定について
+  
+                  弊社は、個人情報保護に関する各種規定やガイドラインをもとに、弊社の最高規範となる「個人情報保護規定」を定め、役員および全従業員に遵守させます。
+  
+                  各種お問合わせについて
+  
+                  個人情報に関するお問い合わせにつきましては、下記の「お問合わせ窓口」までご連絡ください。
+  
+                  お問合わせ窓口 
+                  株式会社alfa-herix（アルファヘリックス）
+  
+                  責任者 
+                  代表取締役兼情報管理責任者　近野瀬里乃
+  
+                  電話番号
+                  03-5674-7109
+  
+                  受付時間 
+                  平日・土曜　13:00-18:00
+  
+                  継続的な改善取組について
+  
+                  弊社は、お客様の個人情報の取り扱いに関する法令等を遵守するとともに、本ポリシーを適宜見直し、改善を図って参ります。それに伴い、本ポリシーが予告なしに変更されることがありますことを予めご了承ください。変更の際は、その旨を弊社のホームページ上に明示することといたします。
+              </div>
 
-                個人情報の管理について
-
-                弊社では、情報管理責任者を定め、個人情報の漏えい、滅失または毀損の防止その他安全管理のために、個人情報の持ち出し手段の制限、外部からの不正アクセス防止のための措置を講じています。
-
-                個人情報の取得について
-
-                弊社は、適法かつ公正な手段によって個人情報を取得いたします。弊社は、取得した個人情報を正当な学習塾事業、教材出版事業、システム開発事業、生涯教育事業（以下、「弊社事業」）の遂行上必要な限りにおいて、以下の利用目的の範囲内および相当の関連性を有すると判断できる合理的な範囲内で利用させていただきます。
-
-                1.進路指導、生徒管理、表彰活動、アンケート活動などを行うため
-                2.生徒募集、テキストを含む指導システムの販売の営業活動を行うため
-                3.お客様の属性で分類された統計資料を作成、分析するため
-                4.業務管理を行うため
-                5.当社サービスのご紹介、ご案内のため
-
-                個人情報の第三者提供について
-
-                個人情報の第三者への提供は、正当な弊社事業遂行に必要な範囲内で、お客様の同意がある場合のみ行います。但し、以下の場合にはこれに応じてご本人の許可なく情報の開示をさせて頂くことがございます。
-
-                1.法令等により開示が要求された場合
-                2.人の生命、身体または財産の保護のために必要がある場合であって、ご本人の同意を得ることが困難であるとき
-                3.公衆衛生の向上または生徒の健全な育成促進のために特に必要である場合であって、ご本人の同意を得ることが困難であるとき
-                4.国の機関もしくは地方公共団体またはその委託を受けた者が法令の定める事務を遂行することに対して協力する必要がある場合であって、ご本人の同意を得ることに当該事務の遂行に支障を及ぼすおそれがあるとき
-                5.決済などのため、金融機関に個人情報を開示する必要があるとき
-                6.お客様個人を識別できない状態で利用する場合
-
-                個人情報の開示について
-
-                弊社は、本人が自己の個人情報の開示、訂正、利用停止、消去等を求める権利を有していることを理解し、この要求がある場合には、ご本人であることを確認させていただいた上で、法廷の定めに従って対応させて頂きます。
-
-                個人情報保護規定について
-
-                弊社は、個人情報保護に関する各種規定やガイドラインをもとに、弊社の最高規範となる「個人情報保護規定」を定め、役員および全従業員に遵守させます。
-
-                各種お問合わせについて
-
-                個人情報に関するお問い合わせにつきましては、下記の「お問合わせ窓口」までご連絡ください。
-
-                お問合わせ窓口 
-                株式会社alfa-herix（アルファヘリックス）
-
-                責任者 
-                代表取締役兼情報管理責任者　近野瀬里乃
-
-                電話番号
-                03-5674-7109
-
-                受付時間 
-                平日・土曜　13:00-18:00
-
-                継続的な改善取組について
-
-                弊社は、お客様の個人情報の取り扱いに関する法令等を遵守するとともに、本ポリシーを適宜見直し、改善を図って参ります。それに伴い、本ポリシーが予告なしに変更されることがありますことを予めご了承ください。変更の際は、その旨を弊社のホームページ上に明示することといたします。
             </div>
             <label for="check_policy" class="form__checkbox">
               <input type="checkbox" id="check_policy">
@@ -679,7 +673,7 @@
             </label>
           </div>
 
-          <button class="home__btn" type="submit" style="margin-top: 40px;">
+          <button class="home__btn" type="submit">
             <p>Kiểm tra email</p>
             <span>送信</span>
           </button>
