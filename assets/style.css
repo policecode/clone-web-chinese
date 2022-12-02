@@ -1900,14 +1900,19 @@ and (max-width: 576px) {
     margin-top: 30px;
 }
 @media screen
-and (max-width: 576px) {
-    .voice {
-        padding-top: 77px;
+and (max-width: 1200px) {
+    .voice__table {
+        margin: 158px 8% 160px 8%;
     }
-    .voice__title p {
-        font-size: 18px;
-        margin-top: 15px;
+}
+@media screen
+and (max-width: 992px) {
+    .voice__table {
+        margin: 158px 4% 160px 4%;
     }
+}
+@media screen
+and (max-width: 768px) {
     .voice__table {
         margin-bottom: 50px;
         margin-top: 93px;
@@ -1919,6 +1924,21 @@ and (max-width: 576px) {
         margin-bottom: 57px;
         width: 100%;
     }
+    .voice__table-col__desc p {
+        height: auto;
+    }
+}
+@media screen
+and (max-width: 576px) {
+    .voice {
+        padding-top: 77px;
+    }
+    .voice__title p {
+        font-size: 18px;
+        margin-top: 15px;
+    }
+  
+ 
     .voice__table-col:last-child {
         margin-bottom: 0;
     }
@@ -1929,7 +1949,6 @@ and (max-width: 576px) {
     }
     .voice__table-col__desc p {
         font-size: 16px;
-        height: auto;
     }
     .voice__table-col__desc span {
         margin-top: 61px;
